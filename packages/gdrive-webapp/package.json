@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx http-server public"
+    "start": "npx http-server public",
+    "dev": "npx http-server public -o"
   },
   "keywords": [],
   "author": "erickwendel",
